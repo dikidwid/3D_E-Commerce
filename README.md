@@ -51,16 +51,16 @@ https://github.com/dikidwid/3D_E-Commerce/assets/92709211/b4f9c9ac-b954-44c1-b53
 ## Screenshots
 
 <p align = "center">
-<img width="508" alt="login" src="https://github.com/dikidwid/3D_E-Commerce/assets/92709211/3282767f-bee5-4edb-9387-47e3f09d022d">
-<img width="508" alt="Home1" src="https://github.com/dikidwid/3D_E-Commerce/assets/92709211/08165737-512e-448a-9fd9-e1e7bc0986e4">
+<img width="412" alt="login" src="https://github.com/dikidwid/3D_E-Commerce/assets/92709211/3282767f-bee5-4edb-9387-47e3f09d022d">
+<img width="412" alt="Home1" src="https://github.com/dikidwid/3D_E-Commerce/assets/92709211/08165737-512e-448a-9fd9-e1e7bc0986e4">
 </p>
 
 <p align = "center">
-<img width="508" alt="search" src="https://github.com/dikidwid/3D_E-Commerce/assets/92709211/0768e544-c774-4273-8ba0-1d61e7d8f47e">
-<img width="508" alt="product1" src="https://github.com/dikidwid/3D_E-Commerce/assets/92709211/dbd27526-ea64-43a2-a5c6-a4b75cba1373">
+<img width="412" alt="search" src="https://github.com/dikidwid/3D_E-Commerce/assets/92709211/0768e544-c774-4273-8ba0-1d61e7d8f47e">
+<img width="412" alt="product1" src="https://github.com/dikidwid/3D_E-Commerce/assets/92709211/dbd27526-ea64-43a2-a5c6-a4b75cba1373">
 </p>
 
 <p align = "center">
-<img width="508" alt="checkout" src="https://github.com/dikidwid/3D_E-Commerce/assets/92709211/e0d19168-e828-464b-b268-d854103bf4f9">
-<img width="508" alt="favorite" src="https://github.com/dikidwid/3D_E-Commerce/assets/92709211/668c6658-2af2-46b1-95b5-de8035111d71">
+<img width="412" alt="checkout" src="https://github.com/dikidwid/3D_E-Commerce/assets/92709211/e0d19168-e828-464b-b268-d854103bf4f9">
+<img width="412" alt="favorite" src="https://github.com/dikidwid/3D_E-Commerce/assets/92709211/668c6658-2af2-46b1-95b5-de8035111d71">
 </p>
