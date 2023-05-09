@@ -2,7 +2,7 @@
 iOS app with 3D model implementation in E-Commerce using SceneKit
 
 <p align="center">
-  <img src="https://github.com/dikidwid/Hayuk/blob/master/Hayuk/Assets.xcassets/AppIcon.appiconset/180.png?raw=true" alt="Icon Hayuk"/>
+  <img src="eCommerce/Assets.xcassets/AppIcon.appiconset/1024.png" alt="Icon e-Commerce"/>
 </p>
 
 ## About
