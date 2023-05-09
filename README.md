@@ -1,4 +1,4 @@
-# 3D_E-Commerce
+# 3D E-Commerce
 iOS app with 3D model implementation in E-Commerce using SceneKit
 
 <p align="center">
