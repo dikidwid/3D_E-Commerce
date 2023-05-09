@@ -36,30 +36,31 @@ This application invloved some UIKit concepts:
 - @EnvironmentObject
 - @FocusState
 
-## Light Mode Screenshots
+
+## Preview Touch ID/Face ID Login Features
+
+
+https://github.com/dikidwid/3D_E-Commerce/assets/92709211/e5823206-ffe5-4a7c-8356-5ccc3385a942
+
+
+## Preview Touch ID/Face ID Login Features
+
+
+https://github.com/dikidwid/3D_E-Commerce/assets/92709211/b4f9c9ac-b954-44c1-b530-bca8bd47ab4b
+
+## Screenshots
+
 <p align = "center">
-<img src="Images/home1.png" width="412"/> <img src="Images/home2.png" width="412"/>
+<img width="508" alt="login" src="https://github.com/dikidwid/3D_E-Commerce/assets/92709211/3282767f-bee5-4edb-9387-47e3f09d022d">
+<img width="508" alt="Home1" src="https://github.com/dikidwid/3D_E-Commerce/assets/92709211/08165737-512e-448a-9fd9-e1e7bc0986e4">
 </p>
 
 <p align = "center">
-<img src="Images/detail2.png" width="412"/> <img src="Images/detail1.png" width="412"/> 
-<img src="Images/detail3.png" width="412"/> <img src="Images/detail4.png" width="412"/>
+<img width="508" alt="search" src="https://github.com/dikidwid/3D_E-Commerce/assets/92709211/0768e544-c774-4273-8ba0-1d61e7d8f47e">
+<img width="508" alt="product1" src="https://github.com/dikidwid/3D_E-Commerce/assets/92709211/dbd27526-ea64-43a2-a5c6-a4b75cba1373">
 </p>
 
 <p align = "center">
-<img src="Images/profile1.png" width="412"/> <img src="Images/profile2.png" width="412"/>
-</p>
-
-## Dark Mode Screenshots
-<p align = "center">
-<img src="Images/darkhome1.png" width="412"/> <img src="Images/darkhome2.png" width="412"/>
-</p>
-
-<p align = "center">
-<img src="Images/darkdetail1.png" width="412"/> <img src="Images/darkdetail2.png" width="412"/> 
-<img src="Images/darkdetail3.png" width="412"/> <img src="Images/darkdetail4.png" width="412"/>
-</p>
-
-<p align = "center">
-<img src="Images/darkprofile1.png" width="412"/> <img src="Images/darkprofile2.png" width="412"/>
+<img width="508" alt="checkout" src="https://github.com/dikidwid/3D_E-Commerce/assets/92709211/e0d19168-e828-464b-b268-d854103bf4f9">
+<img width="508" alt="favorite" src="https://github.com/dikidwid/3D_E-Commerce/assets/92709211/668c6658-2af2-46b1-95b5-de8035111d71">
 </p>
