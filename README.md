@@ -16,7 +16,7 @@ with Firebase database, the login information for the user will be store here as
 already registered or not
 
 ## Concept Utilized
-This application invloved some UIKit concepts:
+This application invloved some concepts:
 - SPAlert
 - LocalAuthentication
 - Firebase
