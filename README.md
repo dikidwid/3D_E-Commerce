@@ -43,7 +43,7 @@ This application invloved some concepts:
 https://github.com/dikidwid/3D_E-Commerce/assets/92709211/e5823206-ffe5-4a7c-8356-5ccc3385a942
 
 
-## Preview Touch ID/Face ID Login Features
+## Preview 3D Model Features
 
 
 https://github.com/dikidwid/3D_E-Commerce/assets/92709211/b4f9c9ac-b954-44c1-b530-bca8bd47ab4b
