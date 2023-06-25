@@ -17,6 +17,9 @@ already registered or not
 
 ## Concept Utilized
 This application invloved some concepts:
+- Swift UI
+- SceneKit
+- Firebase
 - SPAlert
 - LocalAuthentication
 - Firebase
